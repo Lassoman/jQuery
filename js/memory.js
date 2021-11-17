@@ -1,6 +1,6 @@
 //mise en place des données
 //Instanciation d'un tableau contenan le nom des images servant de carte dans le jeu.
-//chaque image est déclarée 2 fois dans le tableau pour avoir des paires.
+//chaque image esst déclarée 2 fois dans le tableau pour avoir des paires.
 var listeCartes =[
     "dromadaire.png",
     "dromadaire.png",
